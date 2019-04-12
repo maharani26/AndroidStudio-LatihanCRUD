@@ -1,5 +1,17 @@
 # AndroidStudio-LatihanCRUD
 
+Masuk ke halaman login dan lakukan login
+
+![alt_text](https://github.com/maharani26/AndroidStudio-LatihanCRUD/blob/master/17.jpeg)
+
+Akan ditampilkan jadwal atau agenda pelatihan
+
+![alt_text](https://github.com/maharani26/AndroidStudio-LatihanCRUD/blob/master/18.jpeg)
+
+Lakukan daftar apabila minat mengikuti pelatihan
+
+![alt_text](https://github.com/maharani26/AndroidStudio-LatihanCRUD/blob/master/19.jpeg)
+
 Tampilan data pendaftar pelatihan android
 
 ![alt_text](https://github.com/maharani26/AndroidStudio-LatihanCRUD/blob/master/5.jpeg)
