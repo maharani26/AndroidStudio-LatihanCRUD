@@ -8,6 +8,8 @@ Akan ditampilkan jadwal atau agenda pelatihan
 
 ![alt_text](https://github.com/maharani26/AndroidStudio-LatihanCRUD/blob/master/18.jpeg)
 
+![alt_text](https://github.com/maharani26/AndroidStudio-LatihanCRUD/blob/master/20.jpeg)
+
 Lakukan daftar apabila minat mengikuti pelatihan
 
 ![alt_text](https://github.com/maharani26/AndroidStudio-LatihanCRUD/blob/master/19.jpeg)
